@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/runaway/static/css/main.19cb30b5.css",
+    "main.js": "/runaway/static/js/main.4cd8b593.js",
+    "static/js/787.3197f9d0.chunk.js": "/runaway/static/js/787.3197f9d0.chunk.js",
+    "index.html": "/runaway/index.html",
+    "main.19cb30b5.css.map": "/runaway/static/css/main.19cb30b5.css.map",
+    "main.4cd8b593.js.map": "/runaway/static/js/main.4cd8b593.js.map",
+    "787.3197f9d0.chunk.js.map": "/runaway/static/js/787.3197f9d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19cb30b5.css",
+    "static/js/main.4cd8b593.js"
+  ]
+}
